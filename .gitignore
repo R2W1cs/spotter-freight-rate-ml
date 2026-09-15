@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+models/*.joblib
+*.egg-info/
+.pytest_cache/
+LOOM_SCRIPT.md
+SUBMISSION.md
+
+reports/figures/report_preview_*.png
+reports/figures/assessment_*.png
+reports/figures/spotter_*.png
